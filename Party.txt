@@ -7,6 +7,8 @@ Created Wednesday 06 March 2019
 
 3 11th lvl players
 
+Wizard, Wizard, Paladin
+
 ===== Difficulty Thresholds =====
 easy = 800x3 = 2400
 medium = 1600x3 = 4800
