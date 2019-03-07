@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-06T15:16:03-05:00
+
+====== Party ======
+Created Wednesday 06 March 2019
+
+3 11th lvl players
+
+===== Difficulty Thresholds =====
+easy = 800x3 = 2400
+medium = 1600x3 = 4800
+hard = 2400x3 = 7200
+deadly = 3600x3 = 10,800

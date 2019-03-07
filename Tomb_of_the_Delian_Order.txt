@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-06T15:02:45-05:00
+
+====== Tomb of the Delian Order ======
+Created Wednesday 06 March 2019
+
+{{../The-Tomb_30.jpg}}
+
+//You've tracked the evil cultists to their hideout, a tomb atop a wooded hill.  Within lies a host of monsters, and the boy they kidnapped to use in their fel ritual.  If you hurry, he may still be alive.//
+
+
+==== 1. Watch Post ====
+//The entrance to the tomb is a low archway carved in the hillside.  The flora has overgrown the stonework, obscuring what looks like writing along the top of the archway.  Two hooded figures stand guard, their heads swaying from side to side in a rhythmic motion.//
+
+2 Cultists 
+
+
+==== 2. Offering room ====
+
+Enlongate the Tunnel leading to room 2
+
+An open pit, 5 ft wide and 20ft deep sits at the bottom of the stairs.
+  No check to notice, the light from outside lights it clearly.
+  If they investigate, an arcana check reveals it is magical.
+  Every 6 seconds, the hole disappears and reappears in an adjacent space.
+  The hole will chase them throughout the entire dungeon.
+
+==== 3. S ====
