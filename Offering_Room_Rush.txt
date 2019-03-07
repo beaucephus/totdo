@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-07T08:46:28-05:00
+
+====== Offering Room Rush ======
+Created Thursday 07 March 2019
+
+Swarm of cultists (12)
+  (minions, 1HP, +3 to hit, 4 slashing damage)
+3 Barbed Devils

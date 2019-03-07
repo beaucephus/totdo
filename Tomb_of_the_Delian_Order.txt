@@ -7,25 +7,22 @@ Created Wednesday 06 March 2019
 
 {{../The-Tomb_30.jpg}}
 
-//You've tracked the evil cultists to their hideout, a tomb atop a wooded hill.  Within lies a host of monsters, and the boy they kidnapped to use in their fel ritual.  If you hurry, he may still be alive.//
+//You've tracked the cultists to their hideout, a tomb atop a wooded hill.  Within lies a host of evils, and the boy they kidnapped to use in their fel ritual.  If you hurry, he may still be alive.//
 
 
 ==== 1. Watch Post ====
 //The entrance to the tomb is a low archway carved in the hillside.  The flora has overgrown the stonework, obscuring the top of the archway.  Two hooded figures stand guard, their heads swaying from side to side in a rhythmic motion.//
 
-2 [[Cultists]]
+2 [[Cultists]] (PP 13)
 
 ==== 2. Offering room ====
-//The tunnel opens up into a medium-sized room of well-preserved stonework.  A Relief depicting men, knights, battling a legion of devils adorns the northern wall.  On the southern wall there is chiseled writing, though its hard to make out what it says.  Dominating the center of the room is a large, empty bronze brazier.//
+//The tunnel opens up into a medium-sized room of well-preserved stonework.  A Relief depicting men, knights, battling a legion of devils adorns the northern wall.  On the southern wall there is chiseled writing, though from a distance, its hard to make out what it says.  Dominating the center of the room is an empty bronze brazier.//
 
-
-10 cultists (minions, 1HP, +3 to hit, 4 slashing damage)
-3 Barbed Devils
-
+[[Offering Room Rush]]
 
 Oath on the southern wall: 
   I, Sextus Varnus, of the Delian Order swear to combat the devils of the nine hells.
-  I pledge my life to the breaking of devilish contracts and to the freedeom of the bound souls.
+  I pledge my life to the breaking of devils' contracts and to the freedeom of the bound souls.
 
 
 
@@ -37,17 +34,15 @@ Pressure plate, wall of fire while active (DC 10 dex save or 5d8 fire dmg)
 ==== 4. Statue Room ====
 //This room is dominated by a dias containing a large bronze statue of a man wearing knightly attire looking down on the entrance way. Some etching is barely visible on the front plate of the dias.//
 
-Two Chain Devils chant an abyssal ritual using their chains to bind a young boy levitating in the air.
-  Each turn the chains bind slightly tighter and blood trickles from the boy
-  The party could surprise the two devils as they are busy with their ritual.
+[[Devil's Ritual]]
 
 Plate on the dias reads "Forge your contract, pledge your principles, and receive your just rewards."
 
 ==== 6. Delian Tomb ====
 //The tunnel widens into a large earthen room.  The stonework here is rough and unfinished.  Roots wind there way down the earthen walls and the steady sound of dripping water can be heard.  The air is wet and thick with the smell of mold.  4 sarcophagi are arranged in 2 rows leading to a single large sarcophagi in the back of the room.//
 
-[[Sword Wraiths]] !!!
-1 command and 4 warriors.  The commander summons 4 more warriors if they start to lose. 
+[[Sword Wraiths]] !!! if the party disturbs the sarcophagi
+1 commander and 4 warriors.  The commander summons 4 more warriors if they start to lose. 
 
 If defeated or appeased, the wraiths thank the party for destroying the devils, and present them with treasure.
 The largest sarcophagus contains
